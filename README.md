@@ -1,1 +1,0 @@
-# Guessing-game-with-Tuples-and-lists
