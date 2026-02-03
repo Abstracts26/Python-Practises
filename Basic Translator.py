@@ -10,4 +10,3 @@ while True:
 
     translated = translator.translate(text, src='en', dest='bn')
     print("Bangla Translation:", translated.text)
-    kjkjkjk
